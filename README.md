@@ -20,7 +20,7 @@ The objective was to align the visual direction with Liveasy's brand tone and us
 
 ## ✨ Final Design Preview
 
-🔗 [View Updated Figma Design]([https://www.figma.com/file/your-updated-figma-link](https://www.figma.com/design/Fm8dmzIuX22d3So1KvXYaa/Liveasy-Logistics?node-id=0-1&t=glHIZ0iOSmsfG6m1-1))
+🔗 [View Updated UI Design](https://www.figma.com/design/Fm8dmzIuX22d3So1KvXYaa/Liveasy-Logistics?node-id=0-1&t=glHIZ0iOSmsfG6m1-1)
 
 ---
 
